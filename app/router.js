@@ -13,7 +13,7 @@ Router.map(function() {
     this.route('invitations');
   });
 
-  this.route('libraries', function(){
+ this.route('libraries', function() {
     this.route('new');
   });
 
